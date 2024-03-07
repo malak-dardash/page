@@ -1,0 +1,32 @@
+body{
+    background-image: linear-gradient( rgb(0, 3, 104),rgb(0, 2, 44));
+}
+a{
+    text-decoration: none;
+    color: white;  
+}
+.contant{
+    display: flex;  
+}
+button{
+    color:white;
+    background-color: rgba(255, 255, 255, 0);
+    border: 1px solid white;
+    border-radius: 17px;
+    padding: 5px;
+    padding-left: 17px;
+    padding-right: 17px;
+    font-size: 12px;
+    float: right;
+}
+.form-check-input{
+    font-size: 25px;
+}
+hr{
+    border: 1px solid rgb(255, 255, 255);
+}
+i{
+    background-color: blue;
+    padding: 15px;
+    border-radius: 100%;
+}
